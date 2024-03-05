@@ -1,4 +1,8 @@
-### Hi there 👋
+### ¡Hey!👋 Soy Jairo 🕴
+
+- Interesado en la desarrollo de aplicaciones web 💻 y la ciberseguridad 🔐
+- Actualmente sigo aprendiendo 👓
+- Puedes contactar conmigo a traves de [LinkedIn](https://linkedin.com/in/jairo-zenteno-b47a64170) 
 
 <!--
 **apaxedev/apaxedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
